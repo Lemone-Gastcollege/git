@@ -1,6 +1,6 @@
 # Git workshop
 
-## Opdracht
+## Opdracht 2: Installeer Git
 
 Installeer Git op jouw machine. Dit hebben we nodig tijdens de workshop.
 

@@ -15,4 +15,4 @@ Een ander voordeel, wat ook tevens een nadeel kan zijn, is dat er vele mogelijkh
 
 Dit betekent dat twéé developers aan dezelfde repository kunnen werken, zonder dat er conflicten ontstaan. Als persoon één een commit doet, moet persoon twéé de veranderingen van persoon één mergen ( samenvoegen ) aan zijn branch.
 
-[Hoe maak ik een account aan in GitHub?](./create_account.md)
+[Hoe maak ik een account aan in GitHub?](./introduction/create_account.md)
